@@ -4,6 +4,12 @@ React + Vite + Tailwind CSS ile geliştirilmiş, LocalStorage destekli bir TODO 
 
 Web Geliştirme / Yapay Zeka proje yönergesine uygun teslim için hazırlanmıştır.
 
+**GitHub:** https://github.com/FFayken/TNC_Grup_Web_Projesi
+
+## Ekran görüntüsü
+
+![Sıra görev listesi ekran görüntüsü](docs/screenshot.png)
+
 ## Özellikler
 
 - **Ekle** — yeni görev oluşturma
