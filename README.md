@@ -4,7 +4,8 @@ React + Vite + Tailwind CSS ile geliştirilmiş, LocalStorage destekli bir TODO 
 
 Web Geliştirme / Yapay Zeka proje yönergesine uygun teslim için hazırlanmıştır.
 
-**GitHub:** https://github.com/FFayken/TNC_Grup_Web_Projesi
+**GitHub:** https://github.com/FFayken/TNC_Grup_Web_Projesi  
+**Canlı site:** https://enchanting-syrniki-73b6aa.netlify.app
 
 ## Ekran görüntüsü
 
